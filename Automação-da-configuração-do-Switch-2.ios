@@ -2,13 +2,13 @@
 enable
 
 !Configuração de Data/Hora em inglês, você pode usar abreviado ou completo
-clock set 14:25:00 22 February 2026
+clock set 16:31:00 22 February 2026
 
   !Acessando o modo de configuração global de comandos
   configure terminal
 
     !Configuração do nome do switch
-    hostname sw-02
+    hostname SW-02
 
     !Habilitando o serviço de criptografia de senhas do Tipo-7 Password 
     service password-encryption
